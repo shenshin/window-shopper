@@ -1,5 +1,5 @@
 //
-//  CurrencyTxtFiels.swift
+//  CurrencyTxtFields.swift
 //  window-shoper
 //
 //  Created by Aleksandr Shenshin on 17.08.17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-@IBDesignable class CurrencyTxtFiels: UITextField {
+@IBDesignable class CurrencyTxtFields: UITextField {
     
     override func prepareForInterfaceBuilder() {
         customizeView()
